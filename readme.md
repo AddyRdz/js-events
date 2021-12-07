@@ -208,9 +208,9 @@ click on our button, call the <code>handleClickEvent()</code> function.
 
 > 5 minutes exercise. 5 minutes review.
 
-Go to this
-[repository](https://git.generalassemb.ly/seir-1213-staging/event-listener-practice)
-and follow the instructions.
+Fork and clone this
+[repository](https://git.generalassemb.ly/seir-1213/js-events-exercises)
+into your lesson directory and follow the instructions for the first exercise after the break.
 
 ## Break
 
@@ -221,8 +221,8 @@ and follow the instructions.
 We will build on the Color Scheme Switcher as we work through the following
 sections of the lesson.
 
-Visit this
-[repository](https://git.generalassemb.ly/seir-1213-staging/color-scheme-switcher)
+Visit this `color-switcher` exercise in your cloned exercises repo.
+[repository](https://git.generalassemb.ly/seir-1213/js-events-exercises/tree/main/ex2-color-scheme-switcher)
 and follow along!
 
 ## The Event Object
@@ -288,8 +288,8 @@ function handleClickEvent(event) {
 
 ## Event Propagation
 
-Clone down
-[this repository](https://git.generalassemb.ly/seir-1213-staging/js-event-propagation-practice)
+Navigate to the `event-propagation` exercise in 
+[this repository](https://git.generalassemb.ly/seir-1213/js-events-exercises/tree/main/ex3-event-propagation-practice)
 for a short exercise.
 
 The site in the exercise above has 100 buttons. Your task is to make it so an
@@ -368,7 +368,7 @@ an alert is created with the text "You clicked a button".
 </details>
 
 **Let's refactor the
-[`js-event-propagation`](https://git.generalassemb.ly/seir-1213-staging/js-event-propagation-practice)
+[`js-event-propagation`](https://git.generalassemb.ly/seir-1213/js-events-exercises/tree/main/ex3-event-propagation-practice)
 exercise from above to use event propagation.**
 
 This technique is really helpful when working with a list of links or buttons
